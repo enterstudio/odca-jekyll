@@ -27,6 +27,7 @@ Github](https://github.com/caciviclab/odca-jekyll/issues/new?labels=type%2Fquest
 
 ### Open Disclosure Team
 
+- Colin K. Bailey
 - Aaron D Borden
 - Ben Cipollini
 - Tom Dooner
@@ -34,8 +35,10 @@ Github](https://github.com/caciviclab/odca-jekyll/issues/new?labels=type%2Fquest
 - Kate Drew
 - Thomas Favre-Bulle
 - Sean Finney
+- Maddy Ford
 - Asha John
 - Ray Kiddy
+- Alison Lawyer
 - Michael Liu
 - Jamie Marcus
 - Daniel O'Kelly
@@ -51,6 +54,7 @@ Github](https://github.com/caciviclab/odca-jekyll/issues/new?labels=type%2Fquest
 - Mike Ubell
 - Kyle Warneck
 - Phil Wolff
+- Jesse Woltjer
 
 
 #### Thank you
