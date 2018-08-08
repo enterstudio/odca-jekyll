@@ -65,4 +65,4 @@ And thank you to our brigade teams for your support and assistance:
 - [Code for San Francisco](http://codeforsanfrancisco.org/)
 - [Code for Sacramento](https://codeforsacramento.org/)
 - [Open San Diego](http://opensandiego.org/)
-- [Code For San Jose](http://codeforsanjose.com/)
+- [Code for San Jose](http://codeforsanjose.com/)
