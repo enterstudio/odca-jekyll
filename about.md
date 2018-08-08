@@ -20,9 +20,9 @@ The Open Disclosure team is a group of volunteer civic hackers that include deve
 In 2014, several Code for America brigade project teams from across California joined forces to establish [California Civic Lab](http://caciviclab.org/), a partnership organization to build Open Disclosure California (ODCA). Early members of California Civic Lab came from Oakland, Sacramento, San Francisco, and San Jose. ODCA could not succeed without the guidance and support from their partnership with the [Oakland Public Ethics Commission](http://www2.oaklandnet.com/Government/o/CityAdministration/d/PublicEthics/index.htm). 
 
 All development on OpenDisclosure happens publicly on
-[Github](https://github.com/caciviclab/disclosure-frontend). We invite any
+[Github](https://github.com/caciviclab/odca-jekyll). We invite any
 questions or suggestions for improvement–just [create an issue on
-Github](https://github.com/caciviclab/disclosure-frontend/issues/new?labels=type%2Fquestion)!
+Github](https://github.com/caciviclab/odca-jekyll/issues/new?labels=type%2Fquestion)!
 
 
 ### Open Disclosure Team
